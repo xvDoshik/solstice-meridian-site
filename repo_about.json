@@ -1,0 +1,14 @@
+{
+  "solstice-meridian-site": {
+    "description": "Static integrative oncology clinic site - Python generator, SEO, nginx deploy, contact API",
+    "topics": [
+      "python",
+      "static-site",
+      "seo",
+      "nginx",
+      "healthcare",
+      "website-generator",
+      "playwright"
+    ]
+  }
+}

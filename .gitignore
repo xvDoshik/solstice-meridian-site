@@ -1,0 +1,10 @@
+deploy/config.env
+deploy/contact-api.env
+__pycache__/
+*.pyc
+public/
+delivery-staging/
+*.zip
+.DS_Store
+.venv/
+venv/
